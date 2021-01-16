@@ -1,12 +1,12 @@
 {
   "name": "nextjs-blog",
   "short_name": "nextjs-blog",
-  "display": "standalone",
+  "display": "browser",
   "orientation": "portrait",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "scope": "/",
-  "start_url": "",
+  "start_url": "/",
   "intent_filters": {
     "scope_url_scheme": "https",
     "scope_url_host": "nextjs-blog-vk.vercel.app",
