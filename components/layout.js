@@ -24,10 +24,10 @@ export default function Layout({ children, home }) {
         <title>Next.js PWA Example</title>
 
         <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" href="/favicon.ico"/>
-        <link href='/favicon-16x16.png' rel='icon' type='image/png' sizes='16x16' />
-        <link href='/favicon-32x32.png' rel='icon' type='image/png' sizes='32x32' />
-        <link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png"></link>
+        <link rel="icon" href="/icons/favicon.ico"/>
+        <link href='/icons/favicon-16x16.png' rel='icon' type='image/png' sizes='16x16' />
+        <link href='/icons/favicon-32x32.png' rel='icon' type='image/png' sizes='32x32' />
+        <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon-180x180.png"></link>
         <meta name="theme-color" content="#317EFB"/>
       </Head>
       <header className={styles.header}>
