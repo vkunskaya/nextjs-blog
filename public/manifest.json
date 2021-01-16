@@ -7,6 +7,11 @@
   "background_color": "#2196f3",
   "scope": "/",
   "start_url": "/",
+  "intent_filters": {
+    "scope_url_scheme": "https",
+    "scope_url_host": "nextjs-blog.vercel.app",
+    "scope_url_path": "/"
+  },
   "icons":  [{
     "src": "images/icons/android-chrome-192x192.png",
     "sizes": "192x192",
