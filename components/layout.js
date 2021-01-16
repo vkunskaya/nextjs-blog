@@ -10,7 +10,6 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/favicon.ico"/>
         <meta name="description" content="LEarn how to build a personal website using Next.js" />
         <meta property="og:image" content={`https://og-image.now.sh/${encodeURI(
             siteTitle
@@ -25,7 +24,10 @@ export default function Layout({ children, home }) {
         <title>Next.js PWA Example</title>
 
         <link rel="manifest" href="/manifest.json" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png"></link>
+        <link rel="icon" href="/favicon.ico"/>
+        <link href='/favicon-16x16.png' rel='icon' type='image/png' sizes='16x16' />
+        <link href='/favicon-32x32.png' rel='icon' type='image/png' sizes='32x32' />
+        <link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png"></link>
         <meta name="theme-color" content="#317EFB"/>
       </Head>
       <header className={styles.header}>
