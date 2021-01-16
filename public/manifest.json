@@ -9,7 +9,7 @@
   "start_url": "/",
   "intent_filters": {
     "scope_url_scheme": "https",
-    "scope_url_host": "nextjs-blog.vercel.app",
+    "scope_url_host": "nextjs-blog-vk.vercel.app",
     "scope_url_path": "/"
   },
   "icons":  [{
