@@ -5,19 +5,20 @@
   "orientation": "portrait",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "scope": "/",
+  "scope": "/posts",
   "start_url": "/",
   "intent_filters": {
     "scope_url_scheme": "https",
     "scope_url_host": "nextjs-blog-vk.vercel.app",
     "scope_url_path": "/"
   },
-  "icons":  [{
-      "src": "icons/favicon.ico",
-      "sizes": "32x32 16x16",
-      "type": "image/png"
-    },
-    {
+  "icons":  [
+  {
+    "src": "icons/favicon.ico",
+    "sizes": "32x32 16x16",
+    "type": "image/png"
+  },
+  {
     "src": "icons/pwa-192x192.png",
     "sizes": "192x192",
     "type": "image/png"
