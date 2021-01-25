@@ -5,8 +5,8 @@
   "orientation": "portrait",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "scope": "/posts",
-  "start_url": "/",
+  "scope": "/",
+  "start_url": "/posts/",
   "intent_filters": {
     "scope_url_scheme": "https",
     "scope_url_host": "nextjs-blog-vk.vercel.app",
