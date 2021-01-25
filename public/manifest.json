@@ -6,7 +6,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/posts/pre-rendering.html",
   "icons":  [
   {
     "src": "icons/favicon.ico",
