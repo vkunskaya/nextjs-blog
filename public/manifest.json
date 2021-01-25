@@ -1,7 +1,7 @@
 {
   "name": "nextjs-blog",
   "short_name": "nextjs-blog",
-  "display": "browser",
+  "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
