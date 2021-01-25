@@ -3,7 +3,6 @@ const withPWA = require('next-pwa');
 module.exports = withPWA({
   pwa: {
     dest: 'public',
-    mode: 'production',
   },
   webpack: (config, { isServer }) => {
     // Fixes npm packages that depend on `fs` module
