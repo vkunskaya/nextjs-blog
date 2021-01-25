@@ -5,8 +5,8 @@
   "orientation": "portrait",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "scope": "/posts",
-  "start_url": "/posts/pre-rendering",
+  "scope": "/",
+  "start_url": "/",
   "icons":  [
   {
     "src": "icons/favicon.ico",
