@@ -6,12 +6,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "scope": "/",
-  "start_url": "/posts/",
-  "intent_filters": {
-    "scope_url_scheme": "https",
-    "scope_url_host": "nextjs-blog-vk.vercel.app",
-    "scope_url_path": "/"
-  },
+  "start_url": "/posts/pre-rendering.html",
   "icons":  [
   {
     "src": "icons/favicon.ico",
